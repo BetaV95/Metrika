@@ -1,0 +1,67 @@
+body {
+    font-family: 'Manrope';
+    letter-spacing: -3%;
+    background-color: #F5F5F5;
+}
+
+.body-frame {
+    width: 1150px;
+    margin: 125px auto;
+    box-sizing: border-box;
+    /* background-color: lightblue; */
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 400;
+    width: 956px;
+    margin-bottom: 30px;
+    margin-right: 100px;
+    /* background-color: lightgreen; */
+}
+
+.interior {
+    background-image: url(../resources/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1150px;
+    position: relative;
+    margin-bottom: 150px;
+}
+
+.interior p {
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+    width: 430px;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+}
+
+.about-us-2 {
+    width: 1051px;
+}
+
+.about-us-2 h2 {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.about-us-2 p {
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 60px;
+    margin-bottom: 30px;
+}
+
+.view-services-bnt {
+    color: white;
+    background-color: #AD1818;
+    text-align: center;
+    padding: 20px 40px;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+}
